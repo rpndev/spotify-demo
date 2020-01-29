@@ -1,0 +1,39 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`PlayList renders correctly after fetching API 1`] = `
+<View
+  style={
+    Object {
+      "backgroundColor": "pink",
+      "flex": 1,
+      "padding": 20,
+    }
+  }
+>
+  <ActivityIndicator
+    animating={true}
+    color="#999999"
+    hidesWhenStopped={true}
+    size="small"
+  />
+</View>
+`;
+
+exports[`TrackDetail renders correctly after fetching API 1`] = `
+<View
+  style={
+    Object {
+      "backgroundColor": "pink",
+      "flex": 1,
+      "padding": 20,
+    }
+  }
+>
+  <ActivityIndicator
+    animating={true}
+    color="#999999"
+    hidesWhenStopped={true}
+    size="small"
+  />
+</View>
+`;
